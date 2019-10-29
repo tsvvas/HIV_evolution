@@ -1,0 +1,43 @@
+	K-mer (China paper)!!!
+
+
+	Questions:
+1) morphological and metabolic features
+2) clusters of orthologs
+3) Since the latter represents the approach of one and
+the same group using the same set of tools, it may provide a more
+consistent background for comparison.
+4) It is the difference between the actual counting result p and the
+predicted value p0 that really reflects the shaping role of selective
+evolution.
+5) jackknife-type tests.
+6) taxa
+7) A search of the
+101,602 protein sequences in SWISS-PROT database
+Rel. 40 (2000) showed that all these proteins have
+taken only less than 26% of the six-string types. If one
+looks at individual prokaryote species, this contrast
+appears to be even more remarkable: EcoliK has
+taken less than 2% and Mycge less than 0.3% of the
+six-string types.
+
+
+	Important:
+1) So far there are nowidely accepted ways to infer phylogenetic relationships from complete genome data.
+2) Method = just counting
+3) Markov model; p0
+4) First, one may use the whole genome sequence. Second,
+one may just collect the coding sequences in the genome. Third,
+one makes use of the translated amino acid sequences from the
+coding segments of DNA.
+5) At the overall level, the division of life into the
+three main domains Bacteria, Archaea, and Eukarya
+is a clean and prominent feature. No mixing among
+domains takes place on all trees for K ‡ 5.
+6) is like SSU rRNA
+7) Some species can at the K = 1, K = 2 be not devided in their specie but at K >= 5,6 
+It almost certainly will.
+
+
+	Real Time Metagenomics: Using k-mers to annotate metagenomes (NCBI)
+
