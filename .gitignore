@@ -1,6 +1,7 @@
 data/
 output/
-kmer_method/csv_data
+kmer_method/csv_data/
+kmre_method/csv_data_math/
 
 # Jupyter Notebook
 .ipynb_checkpoints
