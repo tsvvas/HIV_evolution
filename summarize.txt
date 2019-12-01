@@ -1,0 +1,27 @@
+Цели исследования:
+1) HIV-1 whole-genome deep sequencing (зачастую в предыдущих исследованиях изучали только конкретные части/гены):
+	a)анализ рекомбинаций
+	b)анализ участков по отдельности и в совокупности
+	с)временной анализ
+	d)исслeдовать fitness score and conservation score (мутации и обратные мутации)
+2) Сделать удобную базу для будующих исследования
+3) Проверка различных гипотез и фактов, которые были выявлены в предыдущих исследованиях:
+	a)recombination rate
+	b)SNPs distribution and etc.
+4) Создать "портрет" эволюции ВИЧ
+5) CTL escape analyzes
+
+Результаты:
+1) Геном ВИЧ поделен на участки: более консервативные (БК) и менее консервативные.(As expected, some regions such as the variable loops in gp120 and nef evolve faster, while enzymes – protease (PR), reverse transcriptase (RT) – and the rev response element (RRE) evolve more slowly.)
+	a)В БК участках наблюдается явное стремление к консенсусной последовательности (обратные мутации), что может свидетельствовать о том, что консенсус - sequence represents an ‘optimal’ HIV-1 sequence, which acts as an attractor for the evolutionary dynamics within hosts.
+	b)В МК участках мутации менее зависимы от консенсуса
+2) High recombination rate with average zone 100bp (Lack of long-range linkage due to frequent recombination)
+3) Существует зависимость частот syn- и nonsyn-mutations от части генома (Indeed, we observe a strong anti-correlation between synonymous diversity and nonsynonymous divergence, which is further quantified in Figure 5C. This suggests that frequent non-synonymous substitutions limit synonymous diversity because they drive linked synonymous mutations to fixation or to extinction)
+4) There should be some base-pattern for mutations (which can be modified for each patient)
+5) There are selective sweeps in nonsynomous mutations (Do not fully understand this)
+
+Вопросы:
+1) Что такое selective sweeps? (Result: The majority of nonsynonymous substitutions are positively selected)
+2) Какие группы/подтипы есть у вируса ВИЧ (группы консенсусных последовательностей)
+3) Различается ли комплекс гистосовместимости у женщин и мужчин + возможно ли, что реакция на ВИЧ разная у каждого пола?
+4) Не совсем понял раздел Result : Minor variants reproducibly explore global HIV-1 diversity
