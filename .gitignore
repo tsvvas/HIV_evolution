@@ -18,3 +18,4 @@ ipython_config.py
 .spyproject
 
 
+saved_sklearn_models/forest.joblib
